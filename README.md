@@ -6,7 +6,7 @@ Particularly, It's using the [**Llama2-7B**](https://replicate.com/a16z-infra/ll
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama2.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llamachat2.streamlit.app/)
 
 ## Prerequisite libraries
 
